@@ -1,0 +1,36 @@
+{
+  "accommodation": [
+    {
+      "id": 1,
+      "name": "Mehmet",
+      "lastName": "KARA",
+      "phone": "05453760011",
+      "email": "a@gmail.com",
+      "company": "Iugo"
+    },
+    {
+        "id": 1,
+        "name": "Selen",
+        "lastName": "KARA",
+        "phone": "05453760011",
+        "email": "a@gmail.com",
+        "company": "Tendo"
+      },
+      {
+        "id": 1,
+        "name": "Helen",
+        "lastName": "KARA",
+        "phone": "05453760011",
+        "email": "a@gmail.com",
+        "company": "Mns"
+      },
+      {
+        "id": 1,
+        "name": "Narin",
+        "lastName": "KARA",
+        "phone": "05453760011",
+        "email": "a@gmail.com",
+        "company": "Krn"
+      }
+  ]
+}
